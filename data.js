@@ -42,17 +42,13 @@ var APP_DATA = {
           "target": "0-kakaotalk_20240428_151444449"
         }
       ],
-      "infoHotspots": [
+      "ifoororor": [
         {
           "yaw": 1.4002422379860686,
           "pitch": 0.19451650943857857,
           "title": "Title",
           "text": "Text"
         },
-        {
-          "yaw": -0.8356717984029061,
-          "pitch": -0.31442692884362344,
-          "title": "2222",
           "text": "Text3333"
         }
       ]
